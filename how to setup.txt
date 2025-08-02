@@ -1,0 +1,1 @@
+make sure to hold down boot on esp32
